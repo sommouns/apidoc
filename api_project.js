@@ -1,0 +1,1 @@
+define({  "name": "媒球网",  "version": "0.1.0",  "description": "A multiple pages Appliction",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2019-07-03T09:06:02.744Z",    "url": "http://apidocjs.com",    "version": "0.17.7"  }});
